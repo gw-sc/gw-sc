@@ -5,6 +5,7 @@
 - 📫 How to reach me grace.ch@hotmail.co.uk
 
 - 📚 This GitHub contains majority of my learning assignments in Data Analysis & Visualisations
+- 🧮 My Tableau work can be found [here](https://public.tableau.com/app/profile/grace.cheuk)
  
 <!---
 gw-sc/gw-sc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
