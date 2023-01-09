@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a Data Scientist <!-- - 📜 Data Analysis & Visualisations Certificate, University of Birmingham 2023 -->
 - 🌱 I’m currently learning Data Analytics & Visualisation
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me grace.ch@hotmail.co.uk
+- 📫 How to reach me grace.cheuk@outlook.com
 
 - 📚 This GitHub contains majority of my learning assignments in Data Analysis & Visualisations
 - 🧮 My Tableau work can be found [here](https://public.tableau.com/app/profile/grace.cheuk)
