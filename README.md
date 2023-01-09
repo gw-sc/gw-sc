@@ -11,3 +11,5 @@
 gw-sc/gw-sc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![bbgoats](https://user-images.githubusercontent.com/111397774/211230588-3a6fafb4-6c48-4c76-b014-a00c6d70eae9.jpeg)
