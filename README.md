@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Grace!
 - 👀 I’m interested in becoming a Data Scientist 
-- 🌱 I’m currently looking for Data Analysis oppoprtunities
+- 🌱 I’m currently looking to make a career change into Data Analytics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me grace.cheuk@outlook.com
 
